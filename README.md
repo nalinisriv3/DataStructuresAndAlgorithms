@@ -4,5 +4,5 @@ Below is an structured way for learning DSA which includes the courses you can t
 It is recommended to practice problems as much as possible but also try to code by hand on a paper it will challenge you and you will get a clear understanding of the concepts you implement. For example, if you implement an array do it on a paper and try to write production level code.
 
 
-[] [Coursera - Data Structures](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) / [Edx - Data Structures] (https://learning.edx.org/course/course-v1:GTx+CS1332xI+1T2022)
-  [] [Arrays] (https://www.geeksforgeeks.org/introduction-to-arrays/?ref=lbp)
+-[] [Coursera - Data Structures](https://www.coursera.org/learn/data-structures?specialization=data-structures-algorithms) / [Edx - Data Structures] (https://learning.edx.org/course/course-v1:GTx+CS1332xI+1T2022)
+  -[] [Arrays] (https://www.geeksforgeeks.org/introduction-to-arrays/?ref=lbp)
